@@ -1,4 +1,4 @@
-# Awesome Flower List
+# Awesome Flower List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A list of resources where Flower is used
 
 ## Framework Support
