@@ -1,5 +1,6 @@
 # Awesome Flower List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of resources where Flower is used
+
+A list of resources where Flower is used.
 
 ## Framework Support
 
@@ -7,7 +8,7 @@ A list of resources where Flower is used
 - Keras
 - PyTorch
 - PyTorch Lightning
-- [SciKit](https://scikit-learn.org/stable/related_projects.html)
+- [SciKit](https://scikit-learn.org/dev/related_projects.html)
 - [MXNet](https://mxnet.apache.org/versions/master/ecosystem/)
 
 ## Paper
@@ -35,6 +36,14 @@ Towards Data Science:
 Medium:
 
 - [Introduction to Flower](https://medium.com/nerd-for-tech/build-your-own-federated-learning-model-2c882ea8cfde)
+
+MLOps:
+
+- [Compositional Object Classifier](https://mlops.substack.com/p/compositional-object-classifier)
+
+KDNuggets:
+
+- [Federated Learning: Collaborative Machine Learning with a Tutorial on How to Get Started](https://www.kdnuggets.com/2021/12/federated-learning-collaborative-machine-learning-tutorial-get-started.html)
 
 Analytics Vidhya:
 
