@@ -45,6 +45,9 @@ KDNuggets:
 
 - [Federated Learning: Collaborative Machine Learning with a Tutorial on How to Get Started](https://www.kdnuggets.com/2021/12/federated-learning-collaborative-machine-learning-tutorial-get-started.html)
 
+CanDIG Posts:
+- [Federated Learning on CanDIG](https://www.distributedgenomics.ca/posts/federated-learning-candig/)
+
 Analytics Vidhya:
 
 - [Federated Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/)
