@@ -6,7 +6,7 @@ A list of resources where Flower is used.
 
 - TensorFlow
 - Keras
-- PyTorch
+- [PyTorch](https://pytorch.org/ecosystem/)
 - PyTorch Lightning
 - [SciKit](https://scikit-learn.org/dev/related_projects.html)
 - [MXNet](https://mxnet.apache.org/versions/master/ecosystem/)
