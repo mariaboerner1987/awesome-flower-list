@@ -24,6 +24,10 @@ AWS Architecture Blog:
 
 - [Applying Federated Learning for ML at the Edge](https://aws.amazon.com/de/blogs/architecture/applying-federated-learning-for-ml-at-the-edge/)
 
+OpenMined:
+
+- [What should you consider when building an enterprise federated learning system?](https://blog.openmined.org/design-a-federated-learning-system-in-seven-steps/)
+
 Flower Blog:
 
 - [Learn to adapt Flower for your use-case](https://flower.dev/blog)
