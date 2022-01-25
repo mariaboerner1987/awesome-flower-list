@@ -36,6 +36,7 @@ Towards Data Science:
 
 - [Scaling Flower with Multiprocessing](https://towardsdatascience.com/scaling-flower-with-multiprocessing-a0bc7b7aace0)
 - [Differentially Private Federated Learning with Flower and Opacus](https://towardsdatascience.com/differentially-private-federated-learning-with-flower-and-opacus-e14fb0d2d229)
+- [Design a federated learning system in seven steps](https://towardsdatascience.com/design-a-federated-learning-system-in-seven-steps-d0be641949c6#3c54-b11966999cd5-reply)
 
 Medium:
 
