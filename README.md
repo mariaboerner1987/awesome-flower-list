@@ -69,6 +69,10 @@ LinkedIn:
 
 - [Federated Learning: Same mask but different faces](https://www.linkedin.com/pulse/federated-learning-same-mask-different-faces-imen-ayari/)
 
+EXXACT:
+
+- [Federated Learning: Collaborative Machine Learning with a Tutorial on How to Get Started](https://www.exxactcorp.com/blog/Deep-Learning/federated-learning-training-models)
+
 ## GitHub Repositories
 
 - Flower source code: [Flower Repository](https://github.com/adap/flower)
